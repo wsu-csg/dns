@@ -1,0 +1,16 @@
+---
+providers:
+  config:
+    class: octodns.provider.yaml.YamlProvider
+    directory: ./domains
+  cloudflare:
+    class: octodns.provider.cloudflare.CloudflareProvider
+    email: env/CLOUDFLARE_EMAIL
+    token: env/CLOUDFLARE_TOKEN
+
+zones:
+  wsucyber.club.:
+    sources:
+      - config
+    targets:
+      - cloudflare
