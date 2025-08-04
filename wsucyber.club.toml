@@ -1,3 +1,7 @@
 [["@"]]
-type = "A"
-value = ['185.199.108.153', '185.199.109.153', '185.199.110.153', '185.199.111.153']
+type = "ALIAS"
+value = "wsu-csg.github.io."
+
+[["@"]]
+type = "TXT"
+value = "hullo there hacker"
