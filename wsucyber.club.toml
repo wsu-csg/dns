@@ -4,7 +4,7 @@ pnet = {type = "A", value = "10.175.225.253"}
 kasm = {type = "A", value = "10.175.225.251"}
 
 auth = {type = "A", value = "10.175.225.249"}
-"_acme-challenge.auth.wsucyber.club." = {type = "TXT", value = "AH1MNXoWz1zcFxdswxt-zIpUjkUgWSeGX7-2AhFaroo"}
+"_acme-challenge.auth" = {type = "TXT", value = "AH1MNXoWz1zcFxdswxt-zIpUjkUgWSeGX7-2AhFaroo"}
 
 www = {type = "CNAME", value = "wsg-csg.github.io."}
 
