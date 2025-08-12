@@ -1,4 +1,5 @@
 proxmox = {type = "A", value = "10.175.225.254"}
+docs = {type = "A", value = "10.175.225.243"}
 
 nextcloud = {type = "A", value = "10.175.225.252"}
 "_acme-challenge.nextcloud" = {type = "TXT", value = "-4EBa301-8tQ9Uhjp4jCT-GzOLoCGQ8_Xyccj4Duns8"}
