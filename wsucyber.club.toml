@@ -1,5 +1,8 @@
 proxmox = {type = "A", value = "10.175.225.254"}
+
 nextcloud = {type = "A", value = "10.175.225.252"}
+"_acme-challenge.nextcloud" = {type = "TXT", value = "zz4DC_TeCoJGRzPaCwm1pVv5HqjpHU5VOHaDftUUN0I"}
+
 pnet = {type = "A", value = "10.175.225.253"}
 kasm = {type = "A", value = "10.175.225.251"}
 
