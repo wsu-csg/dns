@@ -3,7 +3,7 @@ docs = {type = "A", value = "10.175.225.243"}
 ctfd = {type = "A", value = "10.175.225.241"}
 
 guac = {type = "A", value = "10.175.225.242"}
-"_acme-challenge.guac" = {type = "TXT", value = "sGcgRDveVVYATnM3KmfghUijlIvxXnwFqyBc2SHajCM"}
+"_acme-challenge.guac" = {type = "TXT", value = "sRDPMdy6j2GJDAL7tJzzh-PeDY2srCfBzND9X4RgImE"}
 
 nextcloud = {type = "A", value = "10.175.225.252"}
 "_acme-challenge.nextcloud" = {type = "TXT", value = "-4EBa301-8tQ9Uhjp4jCT-GzOLoCGQ8_Xyccj4Duns8"}
