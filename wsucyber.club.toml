@@ -1,6 +1,7 @@
 proxmox = {type = "A", value = "10.175.225.254"}
 docs = {type = "A", value = "10.175.225.243"}
 ctfd = {type = "A", value = "10.175.225.241"}
+vms = {type = "A", value = "10.175.225.233"}
 
 guac = {type = "A", value = "10.175.225.242"}
 "_acme-challenge.guac" = {type = "TXT", value = "sRDPMdy6j2GJDAL7tJzzh-PeDY2srCfBzND9X4RgImE"}
